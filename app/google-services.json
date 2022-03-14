@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791362129499",
+    "project_id": "findyou-inu",
+    "storage_bucket": "findyou-inu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791362129499:android:3a06d0404f8bd796a3797e",
+        "android_client_info": {
+          "package_name": "com.inu.maptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791362129499-rl0ci22cevbicsalliu7chg39asjqcqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf1_k_CgK5swEUKfiBYhHrrqimXAcIY68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791362129499-rl0ci22cevbicsalliu7chg39asjqcqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
